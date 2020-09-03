@@ -28,6 +28,11 @@ If you don't have your API artifacts like OpenAPI or JSON schema on a Git reposi
 
 1. Click on `+` sign on the top right, then click `Start a new project with Stoplight Studio`.
 
+[![New Project][1]][2]
+
+[1]:  ../assets/images/s2020-09-03_16-51-00.png
+[2]:  ../assets/images/start-a-new-project.png
+
 ![start a new project](../assets/images/start-a-new-project.png)
 
 ### Import Existing Files
