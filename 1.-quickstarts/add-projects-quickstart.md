@@ -8,34 +8,27 @@ Stoplight looks for:
 - Markdown articles
 - Images
 
-<!--
-type: tab
-title: Connect an Existing Project from Git
--->
+## Connect an Existing Git Project
 
 The quickest and recommended way to get projects into Stoplight is to pull them in from Git, and this can be done in Explorer.
 
 ![add-projects](../assets/images/git-connect-compressed.gif)
 
-1. Click `+` on the top right, then select `Connect Repos`.
+1. Click on `+` sign on the top right, then click `Connect Repos`.
 2. Click on the Git provider of your choice and then click `Connect with Your Git Provider`. Follow the instructions on the pop-up screen to authenticate.
 3. Upon successful authentication, you should see your organizations listed. Choose the organization and select the repositories you want to import. Click `Add Projects`.
 
 If the repository has Markdown articles or API descriptions, then you will see them show up.
 
-Next, lets [share this project](share-documentation-quickstart.md).
-<!--
-type: tab
-title: Import Local Files or Create a Blank Project
--->
+Next, lets [share this project](share-documentation-quickstart.md). 
+
+## Import Local Files or Create a Blank Project
 
 If you don't have your API artifacts like OpenAPI or JSON schema on a Git repository or want to get started with creating a new one, you can get started in Studio. 
 
 1. Click on `+` sign on the top right, then click `Start a new project with Stoplight Studio`.
 
 ![start a new project](../assets/images/start-a-new-project.png)
-
-<!-- type: tab-end -->
 
 ### Import Existing Files
 
