@@ -30,7 +30,7 @@ If you don't have your API artifacts like OpenAPI or JSON schema on a Git reposi
 
 [![New Project][1]][2]
 
-[1]:  ../assets/images/s2020-09-03_16-51-00.png
+[1]:  ../assets/images/2020-09-03_16-51-00.png
 [2]:  ../assets/images/start-a-new-project.png
 
 ![start a new project](../assets/images/start-a-new-project.png)
